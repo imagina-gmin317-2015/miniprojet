@@ -1,0 +1,5 @@
+#ifndef CAPSULE_COLLIDER_H
+#define CAPSULE_COLLIDER_H
+
+
+#endif

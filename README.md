@@ -1,2 +1,1 @@
-# miniprojet
-Implémentation d'un jeu et de son moteur
+lien vers le projet : https://github.com/znoraka/SexyDwarfEngine
